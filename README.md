@@ -1,4 +1,4 @@
-# memory-map-js
+# Memory map app
 I built this map app based on the app which Udemy taught. I added and changed some features. Hope you like it!
 
 New Features!
